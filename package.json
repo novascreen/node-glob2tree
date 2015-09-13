@@ -1,0 +1,30 @@
+{
+  "name": "glob2tree",
+  "version": "0.0.1",
+  "description": "Create a tree representation of a globbing result",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/novascreen/node-glob2tree.git"
+  },
+  "keywords": [
+    "node",
+    "glob",
+    "globbing",
+    "tree",
+    "json"
+  ],
+  "author": "Thomas Hermann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/novascreen/node-glob2tree/issues"
+  },
+  "homepage": "https://github.com/novascreen/node-glob2tree",
+  "dependencies": {
+    "glob-all": "^3.0.1",
+    "lodash": "^3.10.1"
+  }
+}
